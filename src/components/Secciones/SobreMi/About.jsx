@@ -72,7 +72,7 @@ const About = () => {
             whileTap={{ scale: 0.98 }}
             className="block w-full mt-6 p-4 text-center border-2 border-[#00ff41] text-[#00ff41] font-mono font-bold hover:bg-[#00ff41] hover:text-black transition-all duration-300 shadow-[0_0_15px_rgba(0,255,65,0.2)]"
           >
-            DESCARGAR_CV.LOG
+            DESCARGAR_CV.PDF
           </motion.a>
         </div>
       </div>
